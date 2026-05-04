@@ -199,7 +199,10 @@ plt.show()
 
 - Laplacian operator detects edges clearly in grayscale  
 <img width="622" height="392" alt="image" src="https://github.com/user-attachments/assets/1c7429d7-4dc7-4ec0-88de-f8450297c8b7" />
-![Uploading image.png…]()
+
+
+<img width="628" height="420" alt="image" src="https://github.com/user-attachments/assets/d2b008d3-c081-4fcc-9e12-3a782717ba71" />
+
 
 ---
 
